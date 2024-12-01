@@ -1,0 +1,26 @@
+/* Comentario*/
+body{
+background-color: brown;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+}
+.Primeraimg{
+    width: 300px;
+border-radius: 150px;
+border:solid
+}
+
+.ImagenRed{
+    width: 300px;
+border-radius: 150px;
+opacity: 0.8;
+
+}
+.Popularsong{
+ background-color: antiquewhite;
+}
+
+.Imagenes{
+ text-align: center;
+}
