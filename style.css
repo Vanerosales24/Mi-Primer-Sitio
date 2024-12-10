@@ -1,6 +1,6 @@
 /* Comentario*/
 body{
-background-color: brown;
+background-color: #a8636e;
 
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: medium;
@@ -23,4 +23,11 @@ opacity: 0.8;
 
 .Imagenes{
  text-align: center;
+}
+.pestañas{
+    font-size: 33px;
+    text-align: right;
+}
+h1{
+    text-align: center;
 }
